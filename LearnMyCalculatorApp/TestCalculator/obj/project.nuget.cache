@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WGLHAvt59Eg=",
+  "dgSpecHash": "cJ1NaL1BDI0=",
   "success": true,
-  "projectFilePath": "D:\\ПИТМ\\Работы\\Лаб 8\\2developer\\Calculator\\LearnMyCalculatorApp\\TestCalculator\\LearnMyCalculator.Tests.csproj",
+  "projectFilePath": "D:\\ПИТМ\\Работы\\Лаб 8\\3developer\\Calculator\\LearnMyCalculatorApp\\TestCalculator\\LearnMyCalculator.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\329191-30\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\329191-30\\.nuget\\packages\\fluentassertions\\8.0.1\\fluentassertions.8.0.1.nupkg.sha512",

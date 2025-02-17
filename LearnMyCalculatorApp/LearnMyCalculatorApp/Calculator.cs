@@ -36,5 +36,10 @@ namespace LearnMyCalculatorApp
         {
             return x/100;
         }
+
+        public double Sin(double x)
+        { 
+            return Math.Sin(x);
+        }
     }
 }
