@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u041F\u0418\u0422\u041C\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u041B\u0430\u0431 7\\LearnMyCalculatorApp\\",
+  "WorkspaceRootPath": "D:\\\u041F\u0418\u0422\u041C\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u041B\u0430\u0431 8\\2developer\\Calculator\\LearnMyCalculatorApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B766E48-1193-4FD4-9B90-3105F66B2C38}|LearnMyCalculatorApp\\LearnMyCalculatorApp.csproj|D:\\\u041F\u0418\u0422\u041C\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u041B\u0430\u0431 7\\LearnMyCalculatorApp\\learnmycalculatorapp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B766E48-1193-4FD4-9B90-3105F66B2C38}|LearnMyCalculatorApp\\LearnMyCalculatorApp.csproj|d:\\\u043F\u0438\u0442\u043C\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u043B\u0430\u0431 8\\2developer\\calculator\\learnmycalculatorapp\\learnmycalculatorapp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B766E48-1193-4FD4-9B90-3105F66B2C38}|LearnMyCalculatorApp\\LearnMyCalculatorApp.csproj|solutionrelative:learnmycalculatorapp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B766E48-1193-4FD4-9B90-3105F66B2C38}|LearnMyCalculatorApp\\LearnMyCalculatorApp.csproj|D:\\\u041F\u0418\u0422\u041C\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u041B\u0430\u0431 7\\LearnMyCalculatorApp\\learnmycalculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B766E48-1193-4FD4-9B90-3105F66B2C38}|LearnMyCalculatorApp\\LearnMyCalculatorApp.csproj|D:\\\u041F\u0418\u0422\u041C\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u041B\u0430\u0431 8\\2developer\\Calculator\\LearnMyCalculatorApp\\learnmycalculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B766E48-1193-4FD4-9B90-3105F66B2C38}|LearnMyCalculatorApp\\LearnMyCalculatorApp.csproj|solutionrelative:learnmycalculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E529A69-F3CD-46C5-85E3-4C85DD3BA1FF}|TestCalculator\\LearnMyCalculator.Tests.csproj|d:\\\u043F\u0438\u0442\u043C\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u043B\u0430\u0431 7\\learnmycalculatorapp\\testcalculator\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E529A69-F3CD-46C5-85E3-4C85DD3BA1FF}|TestCalculator\\LearnMyCalculator.Tests.csproj|d:\\\u043F\u0438\u0442\u043C\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u043B\u0430\u0431 8\\2developer\\calculator\\learnmycalculatorapp\\testcalculator\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E529A69-F3CD-46C5-85E3-4C85DD3BA1FF}|TestCalculator\\LearnMyCalculator.Tests.csproj|solutionrelative:testcalculator\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,24 +28,23 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "CalculatorTests.cs",
-              "DocumentMoniker": "D:\\\u041F\u0418\u0422\u041C\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u041B\u0430\u0431 7\\LearnMyCalculatorApp\\TestCalculator\\CalculatorTests.cs",
+              "DocumentMoniker": "D:\\\u041F\u0418\u0422\u041C\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u041B\u0430\u0431 8\\2developer\\Calculator\\LearnMyCalculatorApp\\TestCalculator\\CalculatorTests.cs",
               "RelativeDocumentMoniker": "TestCalculator\\CalculatorTests.cs",
-              "ToolTip": "D:\\\u041F\u0418\u0422\u041C\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u041B\u0430\u0431 7\\LearnMyCalculatorApp\\TestCalculator\\CalculatorTests.cs",
+              "ToolTip": "D:\\\u041F\u0418\u0422\u041C\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u041B\u0430\u0431 8\\2developer\\Calculator\\LearnMyCalculatorApp\\TestCalculator\\CalculatorTests.cs",
               "RelativeToolTip": "TestCalculator\\CalculatorTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T10:45:20.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T10:45:20.85Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Calculator.cs",
-              "DocumentMoniker": "D:\\\u041F\u0418\u0422\u041C\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u041B\u0430\u0431 7\\LearnMyCalculatorApp\\LearnMyCalculatorApp\\Calculator.cs",
+              "DocumentMoniker": "D:\\\u041F\u0418\u0422\u041C\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u041B\u0430\u0431 8\\2developer\\Calculator\\LearnMyCalculatorApp\\LearnMyCalculatorApp\\Calculator.cs",
               "RelativeDocumentMoniker": "LearnMyCalculatorApp\\Calculator.cs",
-              "ToolTip": "D:\\\u041F\u0418\u0422\u041C\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u041B\u0430\u0431 7\\LearnMyCalculatorApp\\LearnMyCalculatorApp\\Calculator.cs",
+              "ToolTip": "D:\\\u041F\u0418\u0422\u041C\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u041B\u0430\u0431 8\\2developer\\Calculator\\LearnMyCalculatorApp\\LearnMyCalculatorApp\\Calculator.cs",
               "RelativeToolTip": "LearnMyCalculatorApp\\Calculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T10:36:43.927Z",
               "EditorCaption": ""
@@ -54,9 +53,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u041F\u0418\u0422\u041C\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u041B\u0430\u0431 7\\LearnMyCalculatorApp\\LearnMyCalculatorApp\\Program.cs",
+              "DocumentMoniker": "D:\\\u041F\u0418\u0422\u041C\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u041B\u0430\u0431 8\\2developer\\Calculator\\LearnMyCalculatorApp\\LearnMyCalculatorApp\\Program.cs",
               "RelativeDocumentMoniker": "LearnMyCalculatorApp\\Program.cs",
-              "ToolTip": "D:\\\u041F\u0418\u0422\u041C\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u041B\u0430\u0431 7\\LearnMyCalculatorApp\\LearnMyCalculatorApp\\Program.cs",
+              "ToolTip": "D:\\\u041F\u0418\u0422\u041C\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u041B\u0430\u0431 8\\2developer\\Calculator\\LearnMyCalculatorApp\\LearnMyCalculatorApp\\Program.cs",
               "RelativeToolTip": "LearnMyCalculatorApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

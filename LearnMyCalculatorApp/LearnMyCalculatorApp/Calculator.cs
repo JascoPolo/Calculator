@@ -31,5 +31,10 @@ namespace LearnMyCalculatorApp
                 return null;
             }
         }
+
+        public double Convert(double x)
+        {
+            return x/100;
+        }
     }
 }
