@@ -1,0 +1,7 @@
+C:\Users\329191-30\source\repos\LearnMyCalculatorApp\LearnMyCalculatorApp\bin\Debug\LearnMyCalculatorApp.exe.config
+C:\Users\329191-30\source\repos\LearnMyCalculatorApp\LearnMyCalculatorApp\bin\Debug\LearnMyCalculatorApp.exe
+C:\Users\329191-30\source\repos\LearnMyCalculatorApp\LearnMyCalculatorApp\bin\Debug\LearnMyCalculatorApp.pdb
+C:\Users\329191-30\source\repos\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\LearnMyCalculatorApp.csproj.AssemblyReference.cache
+C:\Users\329191-30\source\repos\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\LearnMyCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\329191-30\source\repos\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\LearnMyCalculatorApp.exe
+C:\Users\329191-30\source\repos\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\LearnMyCalculatorApp.pdb
